@@ -39,6 +39,9 @@ Build output is generated in `build/`.
 
 This repo includes a `netlify.toml` configured to publish the `build/` directory.
 
+ Live demo:
+ https://6941ad0b76e9a14e63a7b896--glowing-florentine-fc671c.netlify.app/
+
 If you use Netlify Drop, drag-and-drop the `build/` folder.
 
 ## Project structure
