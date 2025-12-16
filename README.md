@@ -2,8 +2,6 @@
 
 A Vite + React project for a Notion Agent presentation experience.
 
-Original design source:
-https://www.figma.com/design/PwdylqpqEXPjJqnqGQ10SK/Notion-Agent-Presentation
 
 ## Tech stack
 
